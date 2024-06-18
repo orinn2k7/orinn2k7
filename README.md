@@ -1,10 +1,11 @@
-<h2 align="left">About me:</h2>
+<h1 align="left">✨ About me:</h1>
 
 ###
 
 <p align="left">😢 I am just an 11th-grade student in  Vietnam.<br>💻 I have a strong passion for programming but my math skills are not that great =))<br>🧑‍💻My expertise lies in websites and Minecraft plugins, but they don't seem to be very good =((</p>
 
 ###
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/orinn2k7) 
 
