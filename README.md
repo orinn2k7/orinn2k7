@@ -122,7 +122,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=orinn2k7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orinn2k7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=orinn2k7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  ![](https://github-contributor-stats.vercel.app/api?username=orinn2k7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=orinn2k7&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="all" />
+
 </div>
 
 ###
@@ -135,22 +136,17 @@
 
 ###
 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=orinn2k7.orinn2k7&left_color=aliceblue&right_color=aquamarine"  />
 </div>
 
 ###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=orinn2k7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
