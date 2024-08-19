@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">😢 I am just an 11th-grade student in  Vietnam.<br>💻 I have a strong passion for programming but my math skills are not that great =))<br>🧑‍💻My expertise lies in websites and Minecraft plugins, but they don't seem to be very good =((</p>
+<p align="left">😢 I am just an 12th-grade student in  Vietnam.<br>💻 I have a strong passion for programming but my math skills are not that great =))<br>🧑‍💻My expertise lies in websites and Minecraft plugins, but they don't seem to be very good =((</p>
 
 ###
 
@@ -40,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
