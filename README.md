@@ -8,16 +8,10 @@ const MyProfile = {
     school: "Hau Loc I High School",
     hometown: "Thanh Hoa, Vietnam",
     programming: {
-        languages: [ "HTML", "CSS", "Javascript", "Typescript", "Java", "Python", "C++" ],
+        languages: [ "HTML", "CSS", "Javascript", "Typescript", "Java" ],
         frameworks: [ "NextJS", "TailwindCSS", "ExpressJS", "Discord.js", "PaperMC" ],
         tools: [ "VSCode", "Intellij Idea", "Git" ]
-    },
-    socials: {
-        facebook: "https://facebook.com/orinn2k7",
-        discord: "https://discord.com/users/782452298952867840",
-        instagram: "https://www.instagram.com/orinn2k7"
-    },
-    secret_key: "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXIn0.eyJzdWIiOiJzYXcuYW5uXyIsImlhdCI6MTE3MjU5NTYwMH0.p9cJHudnxDR5Ynjuki-g_BqA7IcdFE9IMwPRAOYQrjC3xw52HwW9CDUMFebHqVe6CaHqln3AqTc5eKs7yh6gVw"
+    }
 }
 ```
 
