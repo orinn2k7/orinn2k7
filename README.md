@@ -1,12 +1,10 @@
 <h2 align="left">✨ About me:</h2>
 
 ``` javascript
-const MyProfile = {
-    name: "Nguyen Huu Gia Huy",
-    age: 16,
-    job: "Student",
-    school: "Hau Loc I High School",
-    hometown: "Thanh Hoa, Vietnam",
+const Profile = {
+    name: "orius.hoc.code",
+    age: 17,
+    country: "Vietnam",
     programming: {
         languages: [ "HTML", "CSS", "Javascript", "Typescript", "Java" ],
         frameworks: [ "NextJS", "TailwindCSS", "ExpressJS", "Discord.js", "PaperMC" ],
